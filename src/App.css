@@ -22,6 +22,116 @@
 .App-link {
   color: #61dafb;
 }
+.main-div {
+  margin: 15px;
+}
+h1 , h2 {
+  color: #fff;
+}
+tbody{
+  border: 1px solid #fff;
+}
+tbody tr, th{
+  color: #fff;
+}
+body{
+ background-color: #822727;
+}
+.table_css{
+  width:50%;
+}
+
+.table_css td, .table_css th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.table_css th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #fff;
+  color:#822727;
+}
+.main-div{
+  display: -webkit-box;
+  padding-left: 51px;
+}
+.main-form{
+  width:50%;
+}
+.dept-span{
+  margin-right: -39px;
+}
+.priority-span{
+  margin-right: -7px;
+}
+.msg-span{
+  margin-right: -27px;
+}
+.form-class input, select{
+  margin-left: 80px;
+    color: #3c3c3c;
+    font-family: Helvetica, Arial, sans-serif;
+    /* font-weight: 500; */
+    /* font-size: 18px; */
+    border-radius: 0;
+    line-height: 22px;
+    background-color: #fbfbfb;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 60%;
+    box-sizing: border-box;
+    border: 1px solid #822727;
+}
+.msg-label{
+  display: inline-flex;
+}
+.form-class textarea{
+  margin-left: 80px;
+  color: #3c3c3c;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 0;
+    line-height: 22px;
+    background-color: #fbfbfb;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 60%;
+    box-sizing: border-box;
+    border: 1px solid #822727;
+}
+.main-form h2{
+  color:  #fff;
+ 
+  
+}
+.form-class{
+  background: #fff;
+  width: 60%;
+  padding: 20px;
+}
+.butn-div{
+  display: inline-flex;
+}
+.butn-div input{
+  padding: 2px 40px 2px 40px;
+}
+.butn-div .submt
+{
+  padding: 2px 40px 2px 40px;
+margin-left: 40px;
+margin-right: -45px;
+}
+.form-class span{
+  color: #822727;
+  font-weight: 500;
+}
+.name-span{
+  margin-right: 4px;
+}
+
 
 @keyframes App-logo-spin {
   from {
@@ -31,3 +141,5 @@
     transform: rotate(360deg);
   }
 }
+
+
